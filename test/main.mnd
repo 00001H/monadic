@@ -1,1 +1,1 @@
-mcall println ^ mcall addi #3 ^ #4 -
+println 'Hello,%20world! - mcall println ^ mcall addi #3 ^ #4 -
