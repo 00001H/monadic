@@ -1,0 +1,1 @@
+mcall println ^ mcall addi #3 ^ #4 -
